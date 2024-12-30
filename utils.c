@@ -11,7 +11,7 @@
 #include <netdb.h>
 
 #define N_BACKLOG 64
-#define NI_MAXHOST 3000 // needed to redid it
+#define NI_MAXHOST 3000 // needed to redo it
 #define NI_MAXSERV 3000 // that's too
 
 
